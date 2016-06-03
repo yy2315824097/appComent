@@ -1,0 +1,153 @@
+<div id="index-scroll" spa-widget="scroll">
+        <div>
+          <header>
+              <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="/appComent/images/banner1.jpg"/>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="/appComent/images/banner2.jpg"/>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="/appComent/images/banner3.jpg"/>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="/appComent/images/banner4.jpg"/>
+                        </div>
+                    </div>
+                    <!-- 如果需要分页器 -->
+                    <div class="swiper-pagination"></div>
+              </div>
+          </header>
+          <nav>
+             <ul>
+                <li>
+                    <img src="/appComent/images/home_feature_renderings.png" alt="" />
+                    <b>效果图</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_school.png" alt="" />
+                    <b>装修学堂</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_my_budget.png" alt="" />
+                    <b>我的预算</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_trap.png" alt="" />
+                    <b>装修陷阱</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_fengshui.png" alt="" />
+                    <b>装修风水</b>
+                </li>
+             </ul>
+             <ul>
+                <li>
+                    <img src="/appComent/images/home_feature_nearby_business.png" alt="" />
+                    <b>附近商家</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_decoration_company.png" alt="" />
+                    <b>装修公司</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/tuangouhui.png" alt="" />
+                    <b>团购会</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_quoted_price.png" alt="" />
+                    <b>免费报价</b>
+                </li>
+                <li>
+                    <img src="/appComent/images/home_feature_designers.png" alt="" />
+                    <b>找设计师</b>
+                </li>
+            </ul>
+          </nav>
+          <section>
+                <dl>
+                  <dt></dt>
+                  <dd>
+                     <ul>
+                        <li>
+                            <div>
+                                <b>
+                                    <img src="/appComent/images/com-logo1.jpg"/>
+                                </b>
+                                <i>
+                                   <h3>国彬</h3>
+                                   <span>17小时前</span>   
+                                </i>
+                                <a href="javascript:void(0)">
+                                    <span class="yo-ico">&#xe6bc;</span>
+                                    <b>加关注</b>
+                                </a>
+                            </div>
+                            <p>经济环保装修之地康水电施工记</p>
+                        </li>
+                        <li>
+                            <img src="/appComent/images/comment-1.jpg"/>
+                        </li>
+                        <li>
+                            <span>
+                               <a href="javascript:void(0)">精选自北京装修论坛</a>
+                            </span> 
+                            <p></p>
+                            <i>
+                                <span>
+                                   <img src="/appComent/images/mouse.jpg"><b>231<b>
+                                </span>
+                                <span>
+                                   <img src="/appComent/images/icon.jpg"><b>13<b>
+                                </span>
+                            </i>
+                        </li>
+                     </ul>
+                  </dd>
+                </dl>
+                <dl>
+                 <dt></dt>
+                  <dd>
+                     <ul>
+                        <li>
+                            <div>
+                                <b>
+                                    <img src="/appComent/images/com-logo1.jpg"/>
+                                </b>
+                                <i>
+                                   <h3>国彬</h3>
+                                   <span>17小时前</span>   
+                                </i>
+                                <a href="javascript:void(0)">
+                                    <span class="yo-ico">&#xe6bc;</span>
+                                    <b>加关注</b>
+                                </a>
+                            </div>
+                            <p>经济环保装修之地康水电施工记</p>
+                        </li>
+                        <li>
+                            <img src="/appComent/images/comment-1.jpg"/>
+                        </li>
+                        <li>
+                            <span>
+                               <a href="javascript:void(0)">精选自北京装修论坛</a>
+                            </span> 
+                            <p></p>
+                            <i>
+                                <span>
+                                   <img src="/appComent/images/mouse.jpg"><b>231<b>
+                                </span>
+                                <span>
+                                   <img src="/appComent/images/icon.jpg"><b>13<b>
+                                </span>
+                            </i>
+                        </li>
+                     </ul>
+                  </dd>
+                </dl>
+            
+          </section>
+       </div>
+    </div>
